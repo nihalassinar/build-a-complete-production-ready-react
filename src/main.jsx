@@ -6,12 +6,12 @@ import './styles.css'
 
 const eventDate = new Date('2026-08-16T11:00:00+05:30').getTime()
 const photos = [
-  ['https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=85','A quiet moment together'],
-  ['https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=1200&q=85','Golden bridal details'],
-  ['https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=1200&q=85','A celebration table'],
-  ['https://images.unsplash.com/photo-1529634806980-85c3dd6d34ac?auto=format&fit=crop&w=1200&q=85','Together, always'],
-  ['https://images.unsplash.com/photo-1507504031003-b417219a0fde?auto=format&fit=crop&w=1200&q=85','A bouquet in bloom'],
-  ['https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=1200&q=85','Love in every glance']
+  ['/images/gallery1.jpg', 'Nabeel & Nidha'],
+  ['/images/gallery2.jpg', 'Wedding Reception'],
+  ['/images/gallery3.jpg', 'Our Journey'],
+  ['/images/gallery1.jpg', 'Nabeel & Nidha'],
+  ['/images/gallery2.jpg', 'Wedding Reception'],
+  ['/images/gallery3.jpg', 'Our Journey']
 ]
 const timeline = [
   ['11:00 AM', 'Guests Arrive', 'A warm welcome and refreshments'],

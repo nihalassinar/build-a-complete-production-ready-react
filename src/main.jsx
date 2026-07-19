@@ -6,12 +6,12 @@ import './styles.css'
 
 const eventDate = new Date('2026-08-16T11:00:00+05:30').getTime()
 const photos = [
-  ['/images/gallery1.jpg', 'Nabeel & Nidha'],
-  ['/images/gallery2.jpg', 'Wedding Reception'],
-  ['/images/gallery3.jpg', 'Our Journey'],
-  ['/images/gallery1.jpg', 'Nabeel & Nidha'],
-  ['/images/gallery2.jpg', 'Wedding Reception'],
-  ['/images/gallery3.jpg', 'Our Journey']
+  ['/images/gallery1.jpeg', 'Nabeel & Nidha'],
+  ['/images/gallery2.jpeg', 'Wedding Reception'],
+  ['/images/gallery3.jpeg', 'Our Journey'],
+  ['/images/gallery1.jpeg', 'Nabeel & Nidha'],
+  ['/images/gallery2.jpeg', 'Wedding Reception'],
+  ['/images/gallery3.jpeg', 'Our Journey']
 ]
 const timeline = [
   ['11:00 AM', 'Guests Arrive', 'A warm welcome and refreshments'],
